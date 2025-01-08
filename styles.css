@@ -11,7 +11,7 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 1rem 0;
+    padding: 0.5rem 0; /* Reduced padding */
     text-align: center;
 }
 
@@ -20,6 +20,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0; /* Removed padding */
 }
 
 .centered-content {
@@ -27,6 +28,7 @@ main {
     max-width: 100%;
     max-height: 100%;
     overflow: hidden;
+    margin: 0; /* Removed margin */
 }
 
 .responsive-image {
@@ -43,5 +45,5 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: 0.5rem 0; /* Reduced padding */
 }
