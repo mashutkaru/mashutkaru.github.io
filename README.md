@@ -7,4 +7,5 @@ My personal website
 - JavaScript
 
 ## Development
-Instructions for running locally...
+Instructions for running tests
+
