@@ -1,2 +1,10 @@
 # mashutkaru.github.io
-for practicing
+My personal website
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Development
+Instructions for running locally...
